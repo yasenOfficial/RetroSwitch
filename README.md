@@ -1,8 +1,10 @@
 # RetroSwitch
-A custom open source retro game console in the body of a 3D printed nintendo switch case
+# A custom open source retro game console in the body of a 3D printed nintendo switch case
 
-
+---------------------------
 This project is powered by:
+---------------------------
+
 - raspberry pi - doesnt matter which model you use as long as it supports retropie adn the 7 inch raspberry pi official display
 - 2 Arduino pro micros
 - Official raspberry pi 7 inch display
