@@ -11,14 +11,20 @@ This project is powered by:
 - Batteries that i still havent chosen yet
 - buttons of any choice
 - joystick modules
-- usb hub
 - wires
-Optional:
-  usb hub,
-  hdmi cable,
-  led diodes
-  - explained later in the final assembly
+- some other stuff shown later
 
+----------------------------
+How to build one yourself!!!
+----------------------------
+
+So as you can see on the picture this is my current progress! What you have to do is very simple. Follow the wiring diagram, and make 2 arduinos wiried this way NB! On the left side you have to add an aditional button - wired like the others except this time the signal goes to pin 10 on the ardiuno on the left!!! VERY IMPORTANT!!!
+
+![current_progress_retro_switch](https://user-images.githubusercontent.com/91755243/192613026-70407229-128c-42d5-b510-f238baf57339.jpg)
+
+On this picture you can see the Left side completely done. You don't have to do it the same way as me. You can chose your microcontroller as long as you know how to wire it up and program it, you can use your own buttons and joysticks as long as they work!!!
+
+Working on the right part!!! Soon Update!!!
 
 -------------
 Good to know: 
@@ -31,3 +37,4 @@ Caution!!!
 ----------
 
 Do not try to overclock or boost performace in any way except if you know what you are doing!!! Overclocking may cause overheating with unproper cooling (This 3D model  doesn't have the best airflow!)
+
