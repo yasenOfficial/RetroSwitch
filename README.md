@@ -12,8 +12,8 @@ This project is powered by:
 - usb hub
 - wires
 Optional:
-  usb hub
-  hdmi cable
+  usb hub,
+  hdmi cable,
   led diodes
   - explained later in the final assembly
 
